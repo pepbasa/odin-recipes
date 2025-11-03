@@ -1,0 +1,1 @@
+This is my first project with The Odin Project. I will be putting together everything I have learned about html, including organizing directories and files and adding links and images
